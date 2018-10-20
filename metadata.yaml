@@ -1,5 +1,5 @@
 _repo: The-Village-and-The-Newspaper_5203
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -25,5 +25,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'English poetry'
 - !lcc 'PR'
+- GITenberg
 title: The Village and The Newspaper
 url: http://www.gutenberg.org/ebooks/5203
